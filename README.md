@@ -23,7 +23,7 @@ My name is **Kevin Hua**
 - 🖖 I’m a system architecture developer.
 - 🤔 I'm looking for someone  with experience in cloud platform development or kubernetes to build [Dockyard](https://github.com/SprintorProject).
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huhouhua&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/huhouhua/huhouhua)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huhouhua&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/huhouhua)
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huhouhua&repo=chic)](https://github.com/huhouhua/chic)
 -->

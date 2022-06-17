@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is **Kevin Hu**
+My name is **Kevin Hua**
 
 - 🔭 I’m currently working on a cloud platform. (at present  closed source state)
 - 🌱 I’m currently learning technologies related to   Cloud native.

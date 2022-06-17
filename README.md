@@ -1,4 +1,4 @@
-### Hi there 👋  My name is **Kevin.hu**
+### Hi there 👋  My name is **Kevin Hu**
 
 <!--
 **huhouhua/huhouhua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is **Kevin Hu**
 
-- 🔭 I’m currently working on  cloud platform at present  closed source state
+- 🔭 I’m currently working on  cloud platform  present  closed source state
 - 🌱 I’m currently learning technologies related to   Cloud native.
 - 💕 I’m an open source enthusiast.
 - 🖖 I’m a system architecture developer.

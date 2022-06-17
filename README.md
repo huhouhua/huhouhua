@@ -1,4 +1,4 @@
-### Hi there 👋  My name is **Kevin Hu**
+### Hi there 👋  
 
 <!--
 **huhouhua/huhouhua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My name is **Kevin Hu**
 
 - 🔭 I’m currently working on  cloud platform
 - 🌱 I’m currently learning Cloud native technologies.

@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is **Kevin Hu**
 
 - 🔭 I’m currently working on  cloud platform
-- 🌱 I’m currently learning Cloud native technologies.
+- 🌱 I’m currently learning technologies related to   Cloud native.
 - 💕 I’m an open source enthusiast.
 - 🖖 I’m a system architecture developer.
 - 🤔 I'm looking for someone  with experience in cloud platform development or kubernetes to build [Dockyard](https://github.com/SprintorProject).

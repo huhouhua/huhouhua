@@ -25,5 +25,5 @@ My name is **Kevin Berger**
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huhouhua&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/huhouhua/huhouhua)
 <!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huhouhua&repo=chic)](https://github.com/huhouhua/chic)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huhouhua&repo=chic)]
 -->

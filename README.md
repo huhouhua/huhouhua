@@ -25,5 +25,5 @@ My name is **Kevin Berger**
 - 📫 How to reach me huhouhuam@outlook.com
 
 <img align="right" src="https://hits.b3log.org/huhouhua/huhouhua.svg" /></br></br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=huhouhua&show_icons=true&count_private=true&include_all_commits=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=huhouhua&show_icons=true&count_private=true" />
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huhouhua&hide=html,ruby" />

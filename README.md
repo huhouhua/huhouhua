@@ -24,7 +24,7 @@ My name is **Kevin Berger**
 - 🤔 I'm looking for someone  with experience in cloud platform development or kubernetes to build [Seacraft](https://github.com/seacraft).
 - 📫 How to reach me huhouhuam@outlook.com
  
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=huhouhua&show_icons=true)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=huhouhua&show_icons=true&count_private=true&include_all_commits=true)
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huhouhua&repo=chic)]
 -->

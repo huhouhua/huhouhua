@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 My name is **Kevin Berger**
 
 - 🔭 I’m currently working on a cloud platform. (at present  closed source state)
-- 🌱 I’m currently learning technologies related to   Cloud native.
-- 💕 I’m an open source enthusiast.
-- 🖖 I’m a devops architect
+- 🌱 I’m currently learning technologies related to Cloud native.
+- 🖖 I'm an open source enthusiast and a DevOps architect
 - 🤔 I'm looking for someone  with experience in cloud platform development or kubernetes to build [Seacraft](https://github.com/seacraft).
 - 📫 How to reach me huhouhuam@outlook.com
 

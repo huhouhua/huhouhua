@@ -19,7 +19,7 @@ My name is **Kevin Berger**
 
 - 🔭 I’m currently building a complex cloud platform. (currently in a just-started state)
 - 🌱 At the same time, I am also learning cloud native related technologies.
-- 🖖 I’m an open source enthusiast and a DevOps architect
+- 🖖 I’m an open source enthusiast and a Continuous Delivery Architect
 - 🤔 I'm looking for someone  with experience in cloud platform development or kubernetes to build [Seacraft](https://github.com/seacraft).
 - 📫 How to reach me huhouhuam@outlook.com
 

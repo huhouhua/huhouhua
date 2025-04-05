@@ -25,4 +25,4 @@ My name is **Kevin Berger**
 
 <img align="right" src="https://hits.b3log.org/huhouhua/huhouhua.svg" /></br></br>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=huhouhua&show_icons=true&count_private=true" />
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huhouhua&hide=html,css,makefile,less" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huhouhua&hide=html,css,makefile,less,pascal,puppet,powershell,javascript" />
